@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExceptDemo",
+            "request": "launch",
+            "mainClass": "ExceptDemo",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Except",
+            "request": "launch",
+            "mainClass": "Except",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Mousemove",
+            "request": "launch",
+            "mainClass": "Mousemove",
+            "projectName": "java_72e8cc1b"
+        }
+    ]
+}
